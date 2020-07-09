@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "grommit.netlify.app"
 languageCode = "en-us"
-title = "Forty"
+title = "Grommit"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Grommit"
+  description = "Just a grom in the world"  
 
   # Link custom assets relative to /static
   custom_css = []
@@ -37,11 +37,11 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Grom"
+    subtitle = "Making mess"
     menu = "Menu"
     # Optional logo as brand stored in img/
-    # logo = "logo.png"
+    # logo = "ba.jpg"
 
     [[params.navigation.links]]
       name = "Home"
