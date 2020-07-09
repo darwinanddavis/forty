@@ -40,6 +40,15 @@ require(plotly) ## Loading required package: plotly ## Loading required package:
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>/contact/contact/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>/contact/contact/</guid>
+      <description>Load some packages </description>
+    </item>
+    
+    <item>
       <title>Magna</title>
       <link>/blogs/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
