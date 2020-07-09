@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Grommit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mde</title>
+      <link>/categories/mde/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>south america</title>
+      <link>/categories/south-america/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/south-america/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R</title>

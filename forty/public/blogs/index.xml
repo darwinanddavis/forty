@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Creating code chunks</title>
+      <link>/blogs/creating-code-chunks/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/creating-code-chunks/</guid>
+      <description>MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: &#34;all&#34;} } });  Testing code chunk outputs The below code should be highlighted.
+require(plotly) ## Loading required package: plotly ## Loading required package: ggplot2 ## ## Attaching package: &amp;#39;plotly&amp;#39; ## The following object is masked from &amp;#39;package:ggplot2&amp;#39;: ## ## last_plot ## The following object is masked from &amp;#39;package:stats&amp;#39;: ## ## filter ## The following object is masked from &amp;#39;package:graphics&amp;#39;: ## ## layout gdf &amp;lt;- data.</description>
+    </item>
+    
+    <item>
       <title>Aliquam</title>
       <link>/blogs/aliquam/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>

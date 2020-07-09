@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://grommit.netlify.app"
+baseURL = "https://testgrom.netlify.app"
 languageCode = "en-us"
 title = "Grommit"
 theme = "forty"
